@@ -14,7 +14,7 @@ do this as long as:
 * you are not required to setup a login/password 
 * software is open source 
 
-###Get free Fantasybit coins now. No Risk. No Cost. No ID. Be Anonymous 
+### Get free Fantasybit coins now. No Risk. No Cost. No ID. Be Anonymous 
 
 1. Download Software
  Desktop (Mac, Windows) - recomended
@@ -28,4 +28,4 @@ do this as long as:
 
 Come back after the next NFL game, to see how many Fantasybits you have. 
 
-####Fantasybit have recently been priced at .00001 Bitcoin (currently 7 cents USD) 
+#### Fantasybit have recently been priced at .00001 Bitcoin (currently 7 cents USD) 
