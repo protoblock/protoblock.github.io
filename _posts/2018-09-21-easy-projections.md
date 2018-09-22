@@ -29,3 +29,7 @@ do this as long as:
 Come back after the next NFL game, to see how many Fantasybits you have. 
 
 #### Fantasybit have recently been priced at .00001 Bitcoin (currently 7 cents USD) 
+
+
+If you are still reading this and have not made your projections yet, no worries, you can still do anytime during the NFL season. Just understand that by the time you learn why and how this is possible the "easy" window may have closed. 
+
