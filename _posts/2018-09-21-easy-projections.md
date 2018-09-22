@@ -1,3 +1,12 @@
+---
+layout: post
+title: Get Fantasybit Coin
+subtitle: "Just 30 a seconds a week and you can earn hundreds or thousands of Fantasybit, a cryptocurrency based on NFL statistics and a token of fanasy football skill"
+image: /img/week1brady.png
+share-img: "http://blog.protoblock.com/img/week1brady.png"
+permalink: /2018/09/21/easy-projections/
+---
+
 In 2008 Satoshi Nakamoto released bitcoin software. All you needed to do was download and the software, and you would start earning bitcoin. 
 
 When I would tell my friends and collegues to run bitcoin software, they looked at me like I was crazy! Until this one time, I was in a collegues apartment and forced him to download and run bitcoin on his gaming computer.   
@@ -30,6 +39,7 @@ Come back after the next NFL game, to see how many Fantasybits you have.
 
 #### Fantasybit have recently been priced at .00001 Bitcoin (currently 7 cents USD) 
 
+---
 
 If you are still reading this and have not made your projections yet, no worries, you can still do anytime during the NFL season. Just understand that by the time you learn why and how this is possible the "easy" window may have closed. 
 
