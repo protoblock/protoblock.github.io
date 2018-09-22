@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Free Fantasybit Coin
-subtitle: "We pay you to watch football!"
+subtitle: "Just 30 seconds a week and you can earn hundreds or thousands of Fantasybit, a cryptocurrency based on NFL statistics and a token of fanasy football skill"
+We pay you to watch football!"
 image: /img/fb.png
 share-img: "http://blog.protoblock.com/img/fb.png"
 permalink: /2018/09/21/easy-projections/
