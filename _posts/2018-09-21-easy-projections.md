@@ -16,13 +16,14 @@ In 2008 Satoshi Nakamoto released bitcoin software, and anyone that would downlo
 
 ----
 
-There is a short period of time in any blockchain where early adopters get paid like sillicon valley startup founders! **This is where we are now with Fantasybit** 
+#### There is a short period of time in any blockchain where early adopters get paid like startup founders!  
+**This is where we are now with Fantasybit** 
 
-With blockchain, the rule is to *"jump in first, and ask question later"*, as long as the software is open source, you dont need to privide any id or email address, and you are not asked for money. 
+With blockchain, the rule of thumb is to *"jump in first, and ask question later"*, as long as the software is open source, and you are not asked to provide any id or email address, and you are not asked for money. 
 
 ----
 
-### Get free Fantasybit coins now! No Risk. No ID. 30 Seconds. No ID
+####  Get coins now! No Risk. No ID. 30 Seconds 
 
 1. Download Software
  Desktop (Mac, Windows) - recomended
@@ -33,14 +34,8 @@ With blockchain, the rule is to *"jump in first, and ask question later"*, as lo
 4. Click Copy/Clone
 5. CLick Send 
 
-|
 ---------- | ------------
-ddddd | sfdsfs
-
----
-step1: ddd
-step2: dd
----
+Step 1:  | sfdsfs
 
 
 Come back after the next NFL game, to see how many Fantasybits you have. 
