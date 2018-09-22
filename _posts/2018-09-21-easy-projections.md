@@ -1,16 +1,18 @@
 ---
 layout: post
-title: Get Fantasybit Coin
-subtitle: "Just 30 a seconds a week and you can earn hundreds or thousands of Fantasybit, a cryptocurrency based on NFL statistics and a token of fanasy football skill"
+title: Free Fantasybit Coin
+subtitle: "We pay you to watch football!"
 image: /img/fb.png
 share-img: "http://blog.protoblock.com/img/fb.png"
 permalink: /2018/09/21/easy-projections/
+bigimg: /img/week1brady.png
 ---
 
-In 2008 Satoshi Nakamoto released bitcoin software. All you needed to do was download and the software, and you would start earning bitcoin. 
+In 2008 Satoshi Nakamoto released bitcoin software, and anyone that would download and run the software, would start earning free bitcoin! I would tell everyone I met to run bitcoin software. "Free Money" I said. But they just looked at me like I was crazy. Until one time, I was in a friends apartment and forced him to download and run bitcoin on his gaming computer. 
 
-When I would tell my friends and collegues to run bitcoin software, they looked at me like I was crazy! Until this one time, I was in a collegues apartment and forced him to download and run bitcoin on his gaming computer.   
-Tim gives me a call, 8 years later, asking me to confirm that he has 25 "real" bitcoin, and that they are now worth :heavy_dollar_sign: 500,000. **Thats five hundred thousand US dollars!** True Story! 
+### 8 years later, my friends gives me a call to confirm that he really has 25 bitcoin on his computer, and is amazed when I tell hime the good news. His coins are now worth **$500,000**! True Story! 
+
+----
 
 >There is a short period of time in any blockchain where early adopters get paid like sillicon valley startup founders! 
 **This is where we are now with Fantasybit**
