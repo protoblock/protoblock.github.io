@@ -8,22 +8,18 @@ permalink: /2018/09/21/easy-projections/
 bigimg: /img/field.png
 ---
 
-In 2008 Satoshi Nakamoto released bitcoin software, and anyone that would download and run the software, would start earning free bitcoin! I would tell everyone I met to run bitcoin software. "Free Money" I said. But they just looked at me like I was crazy. Until one time, I was in a friends apartment and forced him to download and run bitcoin on his gaming computer. 
+In 2008 Satoshi Nakamoto released bitcoin software, and anyone that would download and run the software, would start earning free bitcoin! 
 
-> 8 years later, my friends gives me a call to confirm that he really has 25 bitcoin on his computer, and is amazed when I tell hime the good news. **His coins are now worth $500,000!** True Story.
+> I would tell everyone I met to run bitcoin software. "Free Money" I said. But they just looked at me like I was crazy. Until one time, I was in a friends apartment and forced him to download and run bitcoin on his gaming computer.   
+> 8 years later, my friends gives me a call to confirm that he really has 25 bitcoin on his computer, and is amazed when I tell hime the good news. **Yes he has real bitcoin, and they are now worth $500,000!** True Story.
 
 ----
 
-##### There is a short period of time in any blockchain where early adopters get paid like sillicon valley startup founders! This is where we are now with Fantasybit 
+### There is a short period of time in any blockchain where early adopters get paid like sillicon valley startup founders! This is where we are now with Fantasybit 
 
-In general, with blockchain, the rule is to *_jump in first, and ask question later_*, as long as:  
-* you are not asked for money 
-* you dont need to provide identification
-* it does not require an email address 
-* you are not required to setup a login/password 
-* the software is open source 
+With blockchain, the rule is to *_jump in first, and ask question later_*, as long as the software is open source, you dont need to privide any id or email address, and you are not asked for money. 
 
-### Get free Fantasybit coins now. No Risk. No Cost. No ID. Be Anonymous 
+### Get free Fantasybit coins now! No Risk. No Cost. No ID. Be Anonymous 
 
 1. Download Software
  Desktop (Mac, Windows) - recomended
