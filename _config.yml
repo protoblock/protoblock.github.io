@@ -26,7 +26,7 @@ navbar-links:
   protoblock.com: "http://protoblock.com"
   download app: "http://protoblock.com/pages/downloads.html"
   leaderboard: "http://protoblock.com/pages/leaderboard.html"
-  old blog: "http://23.239.2.159"
+  old blog: "http://wiki.protoblock.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
