@@ -34,10 +34,10 @@ With blockchain, the rule of thumb is to *"jump in first, and ask question later
 4. Click Copy/Clone
 5. CLick Send 
 
----------- | ------------
-Step 1:  |  [Download Protoblock](http://protoblock.com/downloads.html)
-Step 2:  |  Claim Name ![Claim Fantasy Name](/img/claim3.png)
-Step 3:  |  Copy & Send ![Claim Fantasy Name](/img/claim3.png)
+| ------------
+| Step 1: [Download Protoblock](http://protoblock.com/downloads.html)
+| Step 2: Claim Name ![Claim Fantasy Name](/img/claim3.png)
+| Step 3: Copy & Send ![Claim Fantasy Name](/img/claim3.png)
 
 
 Come back after the next NFL game, to see how many Fantasybits you have. 
