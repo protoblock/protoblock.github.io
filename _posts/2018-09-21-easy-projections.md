@@ -10,16 +10,19 @@ bigimg: /img/field.png
 
 In 2008 Satoshi Nakamoto released bitcoin software, and anyone that would download and run the software, would start earning free bitcoin! 
 
-> I would tell everyone I met to run bitcoin software. "Free Money" I said. But they just looked at me like I was crazy. Until one time, I was in a friends apartment and forced him to download and run bitcoin on his gaming computer.   
-> 8 years later, my friends gives me a call to confirm that he really has 25 bitcoin on his computer, and is amazed when I tell hime the good news. **Yes he has real bitcoin, and they are now worth $500,000!** True Story.
+> I would tell everyone I met to run bitcoin software. "Free Money" I said. But they just looked at me like I was crazy. Until one time, I was in a friends apartment and forced him to download and run bitcoin on his gaming computer.
+>
+> 8 years later, my friends gives me a call to confirm if he really has 25 bitcoin. He is amazed when I tell him the good news. **Yes he has real bitcoin, and they are now worth $500,000!** True Story.
 
 ----
 
-### There is a short period of time in any blockchain where early adopters get paid like sillicon valley startup founders! This is where we are now with Fantasybit 
+There is a short period of time in any blockchain where early adopters get paid like sillicon valley startup founders! **This is where we are now with Fantasybit** 
 
-With blockchain, the rule is to *_jump in first, and ask question later_*, as long as the software is open source, you dont need to privide any id or email address, and you are not asked for money. 
+With blockchain, the rule is to *"jump in first, and ask question later"*, as long as the software is open source, you dont need to privide any id or email address, and you are not asked for money. 
 
-### Get free Fantasybit coins now! No Risk. No Cost. No ID. Be Anonymous 
+----
+
+### Get free Fantasybit coins now! No Risk. No ID. 30 Seconds. No ID
 
 1. Download Software
  Desktop (Mac, Windows) - recomended
@@ -29,6 +32,15 @@ With blockchain, the rule is to *_jump in first, and ask question later_*, as lo
 3. Write Down Recovery seed - optional 
 4. Click Copy/Clone
 5. CLick Send 
+
+|
+---------- | ------------
+ddddd | sfdsfs
+
+---
+step1: ddd
+step2: dd
+---
 
 
 Come back after the next NFL game, to see how many Fantasybits you have. 
