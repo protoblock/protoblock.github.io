@@ -2,8 +2,8 @@
 layout: post
 title: Get Fantasybit Coin
 subtitle: "Just 30 a seconds a week and you can earn hundreds or thousands of Fantasybit, a cryptocurrency based on NFL statistics and a token of fanasy football skill"
-image: /img/week1brady.png
-share-img: "http://blog.protoblock.com/img/week1brady.png"
+image: /img/fb.png
+share-img: "http://blog.protoblock.com/img/fb.png"
 permalink: /2018/09/21/easy-projections/
 ---
 
