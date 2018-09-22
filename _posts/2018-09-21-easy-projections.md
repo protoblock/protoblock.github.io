@@ -36,7 +36,7 @@ With blockchain, the rule of thumb is to *"jump in first, and ask question later
 
 | ------------
 | Step 1: [Download Protoblock](http://protoblock.com/downloads.html)
-| Step 2: Claim Name ![Claim Fantasy Name](/img/claim3.png)
+| Step 2: Claim Name --- ![Claim Fantasy Name](/img/claim3.png)
 | Step 3: Copy & Send ![Claim Fantasy Name](/img/claim32.png)
 
 
