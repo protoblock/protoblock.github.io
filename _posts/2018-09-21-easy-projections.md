@@ -5,7 +5,7 @@ subtitle: "We pay you to watch football!"
 image: /img/fb.png
 share-img: "http://blog.protoblock.com/img/fb.png"
 permalink: /2018/09/21/easy-projections/
-bigimg: /img/week1brady.png
+bigimg: /img/field.png
 ---
 
 In 2008 Satoshi Nakamoto released bitcoin software, and anyone that would download and run the software, would start earning free bitcoin! I would tell everyone I met to run bitcoin software. "Free Money" I said. But they just looked at me like I was crazy. Until one time, I was in a friends apartment and forced him to download and run bitcoin on his gaming computer. 
