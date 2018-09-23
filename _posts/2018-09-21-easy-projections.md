@@ -34,7 +34,8 @@ With blockchain, the rule of thumb is to *"jump in first, and ask question later
 4. Click Copy/Clone
 5. CLick Send 
 
-| ------------
+|### Get coins now! No Risk. No ID. 30 Seconds 
+|------------
 | Step 1: [Download Protoblock](http://protoblock.com/downloads.html)
 | Step 2: [Claim Name  ![Claim Fantasy Name](/img/claim3.png)](/img/claim3.png)
 | Step 3: [Copy & Send ![Copy and Send](/img/copysend.png)](/img/copysend.png)
