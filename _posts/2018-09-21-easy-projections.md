@@ -16,21 +16,22 @@ In 2008 Satoshi Nakamoto released bitcoin software, and anyone who downloaded an
 
 ----
 
-###There is a short period of time in any blockchain where early adopters get paid like startup founders!  
+### There is a short period of time in any blockchain where early adopters get paid like startup founders!  
 
 With blockchain, the rule of thumb is to *"jump in first, and ask question later"*, as long as the software is open source, and you are not asked to provide any id or email address, and you are not asked for money. 
 
 **This is where we are now with Protoblock and Fantasybit** 
 
 ----
+
 | Get Fantasybit coins now! No Risk. No ID.  
-|------------
+| ------------
 | Step 1: [Download Protoblock (Mac, Windows, iOS, Android) ](http://protoblock.com/downloads.html) 
 | Step 2: [Claim Name (optional: write down recovery phase) ![Claim Fantasy Name](/img/claim3.png)](/img/claim3.png)
 | Step 3: [Copy Average & Send ![Copy and Send](/img/copysend.png)](/img/copysend.png)
 
 
-###Come back after the next NFL game, to see how many Fantasybit you have. Fantasybit has recently been priced at .00001 Bitcoin or around 10 cents USD. 
+### Come back after the next NFL game, to see how many Fantasybit you have. Fantasybit has recently been priced at .00001 Bitcoin or around 10 cents USD. 
 
 ---
 
