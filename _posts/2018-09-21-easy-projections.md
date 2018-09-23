@@ -8,42 +8,29 @@ permalink: /2018/09/21/easy-projections/
 bigimg: /img/field.png
 ---
 
-In 2008 Satoshi Nakamoto released bitcoin software, and anyone that would download and run the software, would start earning free bitcoin! 
+In 2008 Satoshi Nakamoto released bitcoin software, and anyone who downloaded and ran the software would start earning free bitcoin! 
 
-> I would tell everyone I met to run bitcoin software. "Free Money" I said. But they just looked at me like I was crazy. Until one time, I was in a friends apartment and forced him to download and run bitcoin on his gaming computer.
+> I would tell everyone I met to run bitcoin software. "Free Money" I said. But they just looked at me like I was crazy. One day at a friends apartment, I forced him to download and run bitcoin on his gaming computer.
 >
-> 8 years later, my friends gives me a call to confirm if he really has 25 bitcoin. He is amazed when I tell him the good news. **Yes he has real bitcoin, and they are now worth $500,000!** True Story.
+> 8 years later I received a call from that friend. He wanted me to confirm is he really has 25 bitcoins. He was amazed when I told hi **"Not only is it real, but they are now worth $500,000!"**
 
 ----
 
-#### There is a short period of time in any blockchain where early adopters get paid like startup founders!  
-**This is where we are now with Fantasybit** 
+###There is a short period of time in any blockchain where early adopters get paid like startup founders!  
 
 With blockchain, the rule of thumb is to *"jump in first, and ask question later"*, as long as the software is open source, and you are not asked to provide any id or email address, and you are not asked for money. 
 
+**This is where we are now with Protoblock and Fantasybit** 
+
 ----
-
-####  Get coins now! No Risk. No ID. 30 Seconds 
-
-1. Download Software
- Desktop (Mac, Windows) - recomended
- Mobile (iOS, Androis) 
-2. Chose Alias 
- Use twitter handle to show off you skills or choose to remain anonymous
-3. Write Down Recovery seed - optional 
-4. Click Copy/Clone
-5. CLick Send 
-
-|### Get coins now! No Risk. No ID. 30 Seconds 
+| Get Fantasybit coins now! No Risk. No ID.  
 |------------
-| Step 1: [Download Protoblock](http://protoblock.com/downloads.html)
-| Step 2: [Claim Name  ![Claim Fantasy Name](/img/claim3.png)](/img/claim3.png)
-| Step 3: [Copy & Send ![Copy and Send](/img/copysend.png)](/img/copysend.png)
+| Step 1: [Download Protoblock (Mac, Windows, iOS, Android) ](http://protoblock.com/downloads.html) 
+| Step 2: [Claim Name (optional: write down recovery phase) ![Claim Fantasy Name](/img/claim3.png)](/img/claim3.png)
+| Step 3: [Copy Average & Send ![Copy and Send](/img/copysend.png)](/img/copysend.png)
 
 
-Come back after the next NFL game, to see how many Fantasybits you have. 
-
-#### Fantasybit have recently been priced at .00001 Bitcoin (currently 7 cents USD) 
+###Come back after the next NFL game, to see how many Fantasybit you have. Fantasybit has recently been priced at .00001 Bitcoin or around 10 cents USD. 
 
 ---
 
