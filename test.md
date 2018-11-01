@@ -20,7 +20,7 @@ One of the popular weekly fantasy football podcasts, has some of the most skille
 
 I gringe when I hear this. Shouldnt the top players in a 50 billion dollar fantasy football economy be playing fantasy football for a living?
 
-[![WinnerAll](/img/winnerall.png)](pdf/ProtoblockOpportunity.pdf){: .image-left; .caption } 
+[![WinnerAll](/img/winnerall.png)](pdf/ProtoblockOpportunity.pdf){: .image-left .caption } 
 *caption* 
 As veteran fantasy football players, we know how hard it is to win, and even the best can go years without a championship team. 
 
