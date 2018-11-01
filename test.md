@@ -1,0 +1,16 @@
+---
+layout: page
+title: An Open Letter To The Fantasy Football Community
+subtitle: “When not playing fantasy football, what do you do for a living?” 
+image: /img/barryjob.png
+share-img: "http://blog.protoblock.com/img/barryjob.png"
+permalink: /2018/10/31/decentralized-fantasy-connunity/
+bigimg: /img/field.png
+---
+
+My name is Jay Berg and like many of you I have been playing Fantasy Football since the 1990s. Back then we used magazines for rankings and calculated Fantasy Points by hand from newspapers. Fantasy Football has come a long way, from the hobby of a special kind of nerdy stat geek, to now where Fantasy earnes more revenue than the NFL itself! 
+
+One of the popular weekly fantasy football podcasts, has some of the most skilled and experienced High Stakes Fantsy Football players on as guests. They has the same question of each guest. 
+> “When not playing fantasy football, what do you do for a living”? 
+
+I gringe when I hear this. Shouldnt the top players in a 50 billion dollar fantasy football economy be playing fantasy football for a living?
