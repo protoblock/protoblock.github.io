@@ -7,14 +7,6 @@ share-img: "http://blog.protoblock.com/img/yellow-circle.png"
 permalink: /2018/10/31/decentralized-fantasy-community/
 bigimg: /img/libanner.png
 ---
-<style type="text/css">
-.image-left {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
-}
-</style>
 
 My name is Jay Berg and like many of you I have been [playing]( http://protoblock.com/template/about.html) Fantasy Football since the 1990s. Back then we used magazines for rankings and calculated Fantasy Points by hand from newspapers. Fantasy Football has come a long way, from the hobby of a special kind of nerdy stat geek, to generating more revenue than the NFL itself! 
 
@@ -212,3 +204,13 @@ October 31, 2018
 * [See our source code](https://github.com/protoblock)
 * [Read about Proof of Skill](https://medium.com/@jaybny/on-proof-of-skill-6af149f45ce8)
 * [Watch Explainer Video](https://www.youtube.com/watch?v=ss4ygXya4BU&list=PLZZDVtieCunbiULsoK1In-lOH7ustNQVO)
+
+<style type="text/css">
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+</style>
+
