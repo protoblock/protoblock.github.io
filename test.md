@@ -19,4 +19,9 @@ One of the popular weekly fantasy football podcasts, has some of the most skille
 
 I gringe when I hear this. Shouldnt the top players in a 50 billion dollar fantasy football economy be playing fantasy football for a living?
 
-[![TestImg](/img/fb.png)](http://www.thiengo.com.br/proguard-android){: .image-left } Your Text comes here...
+[![TestImg](/img/fb.png)](http://www.thiengo.com.br/proguard-android){: .image-left } One of the popular weekly fantasy football podcasts, has some of the most skilled and experienced High Stakes Fantsy Football players on as guests. They has the same question of each guest. 
+> “When not playing fantasy football, what do you do for a living”? 
+
+I gringe when I hear this. Shouldnt the top players in a 50 billion dollar fantasy football economy be playing fantasy football for a living?
+
+
