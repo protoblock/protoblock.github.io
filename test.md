@@ -1,11 +1,8 @@
 ---
-layout: post
+layout: page
 title: An Open Letter To The Fantasy Football Community
 subtitle: “When not playing fantasy football, what do you do for a living?” 
 image: /img/barryjob.png
-share-img: "http://blog.protoblock.com/img/barryjob.png"
-permalink: /2018/10/31/decentralized-fantasy-community/
-bigimg: /img/field.png
 ---
 <style type="text/css">
 .image-left {
@@ -23,16 +20,15 @@ One of the popular weekly fantasy football podcasts, has some of the most skille
 
 I gringe when I hear this. Shouldnt the top players in a 50 billion dollar fantasy football economy be playing fantasy football for a living?
 
-[![WinnerAll](/img/winnerall.png)](pdf/ProtoblockOpportunity.pdf){: .image-left; .caption } 
+[![WinnerAll](/img/winnerall.png)](pdf/ProtoblockOpportunity.pdf){: .image-left .caption } 
 *caption* 
 As veteran fantasy football players, we know how hard it is to win, and even the best can go years without a championship team. 
 
 
 When it comes to season-long, it’s a problem of variance. With season-long contests most of the winnings go to the championship winners. Even the best players may only win 1 out of 5 years, making it impractical to support you and your family. 
 
-### Should the Barry Sanders on Fantasy Football not get paid since he has  ot won the championship? 
-
-Imagine asking a Barry Sanders or Larry Fitzgerald. "When not playing NFL football, what do you do for a living?" 
+### Should the Barry Sanders of Fantasy Football not get paid since he has  ot won the championship? 
+![barry](/img/barry.gif){: .image-left} > Imagine Barry Sanders or Larry Fitzgerald as a podcast guest being asked:  "When not playing NFL football, what do you do for a living?" 
 
 
 
