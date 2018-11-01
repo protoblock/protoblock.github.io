@@ -2,10 +2,6 @@
 layout: page
 title: To The Fantasy Football Community
 subtitle: An Open Letter To Veteran Season-Long Players 
-image: /img/barryjob.png
-share-img: "http://blog.protoblock.com/img/barryjob.png"
-permalink: /2018/10/31/decentralized-fantasy-community/
-bigimg: /img/field.png
 ---
 <style type="text/css">
 .image-left {
