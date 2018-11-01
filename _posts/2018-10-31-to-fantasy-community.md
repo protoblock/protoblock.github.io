@@ -152,7 +152,7 @@ Fantasy points data from each NFL game already has consensus. Users running Prot
 ### Why would anyone pay us $200,000 for Fantasybit created out of thin air? 
 Fantasybit has value from its "hard money" properties. They are scarce, hard to obtain, immutable, and has real utility. 
 
-* Scarcity comes from the limited number of NFL games each season. Around 50,000 fantasy points are scored, generating 5 million Fantasbit each season.  
+* Scarcity comes from the limited number of NFL games each season. Around 50,000 fantasy points are scored, generating 5 million Fantasybit each season.  
 
 * Hard to obtain – right now, it’s easy to obtain, but at some point “mining” Fantasybit with Projections, will become a specialized endeavor for real knowledgeable NFL fans and skilled Fantasy Football players. As we all know, Fantasy Football skill is hard to obtain. 
 
