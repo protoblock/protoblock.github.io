@@ -27,9 +27,8 @@ As veteran fantasy football players, we know how hard it is to win, and even the
 
 When it comes to season-long, it’s a problem of variance. With season-long contests most of the winnings go to the championship winners. Even the best players may only win 1 out of 5 years, making it impractical to support you and your family. 
 
-### Should the Barry Sanders on Fantasy Football not get paid since he has  ot won the championship? 
-
-Imagine asking a Barry Sanders or Larry Fitzgerald. "When not playing NFL football, what do you do for a living?" 
+### Should the Barry Sanders of Fantasy Football not get paid since he has  ot won the championship? 
+![barry](/img/barry.gif){: .image-left} > Imagine Barry Sanders or Larry Fitzgerald as a podcast guest being asked:  "When not playing NFL football, what do you do for a living?" 
 
 
 
