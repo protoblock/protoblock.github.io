@@ -89,14 +89,14 @@ Welcome to the first decentralized fantasy football community. Its currently wee
 
 **Come back after each game to see how many coins you earned. Projections are open through week 16 and startup again after 53-man-rosters for 2019 Week 1 projections.**  
 
-**Rule #1** Each PPR point scored in the NFL from Week 1 to Week 16 generate 100 Fantasybit
+**Rule #1** each PPR point scored in the NFL from Week 1 to Week 16 generates 100 Fantasybit
 >1 Fantasy Point = 100 Fantasybit**  
 
-**Rule #2**  All Fantasybit are split among users with qualifying accurate projections. The more accurate your projection the more Fantasybit awarded. 
+**Rule #2**  all Fantasybit are split among users with qualifying accurate projections. The more accurate your projection the more Fantasybit awarded. 
 
 **Fantasybit - The PPR Coin - Is a token of fantasy football Skill!**
 
-Each user’s software independently keeps a ledger of all other users projections. Everyone independently runs the numbers, follows the rules, and keeps score.  
+Each user’s software independently keeps a ledger of all other users projections, runs the numbers, follows the rules, and keeps score.  
 
 > Example: Tom Brady scored 20 Fantasy Points, this equals 2000 Fantasybits – if 50 users projected 20, then each user gets 40 Fantasybit 
 
@@ -128,13 +128,15 @@ This idea can be applied to all industries, companies, banks, casinos, etc. Take
 * *Bitcoin with Proof-of-Work (POW) was the first real "hard money" Cryptocurrency.*
 * *Fantasybit with Proof-of-Skill has a similar potential!*
 
->Has difficult as it is to understand bitcoin and blockchain. Trust me when I tell you, it’s just as hard for bitcoiners trying to understand fantasy football! 
+
+>As difficult as it is to understand bitcoin and blockchain. Trust me when I tell you, it’s just as hard for bitcoiners trying to understand fantasy football! 
+
 
 Bitcoin is a system of aligning economic incentives – every 10 minutes a bitcoin miner, usually located in China, is awarded $100,000 just for finding a virtual needle in a virtual haystack. The one who finds this needle becomes central authority for this “Block”. Every 10 minutes a new random authority is chosen. This creates the censorship resistance property and enables bitcoin to reach consensus and prevent double-spend. 
 
 > Why are billions of dollars spent finding needles in haystacks? Because they are being paid for it. Incentives are economically aligned between miners and users. 
 
-Bitcoin POW miners are searching for a single number, that when combines with the Block and put through a one-way SHA256 hash function solve a difficult random problem. Each bitcoin node has runs their own SHA256 on the block to confirm it. This is how the bitcoin creates a distributed ledger. 
+Bitcoin POW miners are searching for a single number, that when combines with the Block and put through a one-way SHA256 hash function, solve a difficult random problem. Each bitcoin node runs their own SHA256 on the block to confirm it. This is how the bitcoin creates a distributed ledger. 
 
 POW is slow, and some say it not environmentally friendly. However, until now, there was no other way of independently agreeing on random data. 
 
@@ -175,7 +177,7 @@ These buyers will pay bitcoin or even dollars for Fantasybit. Now guess who gets
 ## Trading Game
 The first utility for Fantasybit is current live. 
 
-####Decentralized Fantasy Forwards Market
+#### Decentralized Fantasy Forwards Market
 
 Protoblock is a financial market for hedging and speculating on individual players Fantasy point results. Player contracts are available for a single game, rest-of-season, or next season. 
 * Solves a real-world problem with a $12 billion-dollar untapped market. 
@@ -193,6 +195,7 @@ Protofund, has allocated 1 million coins for any and all Fantasy Players – jus
 
 ---
 
+>Thank You and good luck!
 Jay Berg 
 October 31, 2018 
 
