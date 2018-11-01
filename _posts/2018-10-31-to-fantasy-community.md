@@ -18,7 +18,7 @@ bigimg: /img/libanner.png
 
 My name is Jay Berg and like many of you I have been [playing]( http://protoblock.com/template/about.html) Fantasy Football since the 1990s. Back then we used magazines for rankings and calculated Fantasy Points by hand from newspapers. Fantasy Football has come a long way, from the hobby of a special kind of nerdy stat geek, to generating more revenue than the NFL itself! 
 
-I listen to a popular fantasy football podcast, and the same question is asked to their guests, who are some of the most skilled and experienced High Stakes Fantasy Football players on the planet! They ask:  
+I listen to a popular weekly fantasy football podcast, and the same question is asked to each guest, who are some of the most skilled and experienced High Stakes Fantasy Football players on the planet! They ask:  
 > “When not playing fantasy football, what do you do for a living”? 
 
 I cringe when I hear this. Shouldn't the top players in a 27-billion-dollar fantasy football economy be playing fantasy football professionally for a living? 
