@@ -74,12 +74,12 @@ Welcome to the first decentralized fantasy football community. Its currently wee
 2. [Claim Fantasy Name (chose twitter handle or fantasy team name to remain anonymous)](/img/claim3.png)
 >With Blockchain there is no login with a name/password, as there is no central company or server to log into. Instead, each user’s computer creates a Public / Private key pair. This public key is your identity and the private key is kept secret.  
 3. Write down your secret. (or skip now and export secret later)
-4. Make Week 9 PPR Projections 
-    *  First Copy Average or Drag Drop and Copy from another Fantasy Name
+4. [Make Week 9 PPR Projections](http://protoblock.com/PlayGuide.pdf)
+    *  First [Copy Average](/img/copysend.png) or Drag Drop and Copy from another Fantasy Name
     *  Hit Send
     *  Feel free to make individual changes 
     *  Try export/import CSV file 
-    *  Contact us for custom connection to projection APIs
+    *  Contact [me](https://twitter.com/jaybny) for custom connection to projection APIs
      
 >This is not really a competition with your fellow fantasy experts, since all your projections are instantly public. Rather it’s a community effort to widely distribute coins among all NFL knowledge and Fantasy Football skill. 
 
@@ -196,7 +196,7 @@ Jay Berg
 October 31, 2018 
 
 ---
-
+* [Protoblock.com](http://protoblock.com/)
 * [Join Telegram Community](https://t.me/protoblock)
 * [Join Live Hangouts - Wednesdays during NFL Season](https://www.youtube.com/c/protoblock/live)
 * [Follow us on Twitter](https://twitter.com/protoblock)
