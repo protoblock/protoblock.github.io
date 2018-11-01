@@ -1,11 +1,8 @@
 ---
-layout: post
+layout: page
 title: An Open Letter To The Fantasy Football Community
 subtitle: “When not playing fantasy football, what do you do for a living?” 
 image: /img/barryjob.png
-share-img: "http://blog.protoblock.com/img/barryjob.png"
-permalink: /2018/10/31/decentralized-fantasy-community/
-bigimg: /img/field.png
 ---
 <style type="text/css">
 .image-left {
