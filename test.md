@@ -25,3 +25,4 @@ I gringe when I hear this. Shouldnt the top players in a 50 billion dollar fanta
 I gringe when I hear this. Shouldnt the top players in a 50 billion dollar fantasy football economy be playing fantasy football for a living?
 
 
+you can [get the PDF]({{ protoblock.com }}/ProtoblockIncOpportunity2016.pdf) directly.
