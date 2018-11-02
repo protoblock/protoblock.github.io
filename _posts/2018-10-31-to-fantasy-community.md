@@ -69,7 +69,7 @@ Protoblock can generate free, accurate, real-time, last-minute, start/sit advice
 #### Who’s in?  
 Welcome to the first decentralized fantasy football community. Its currently week 9 of 2018 NFL Season. There are 7 weeks left and there will be around 22,000 PPR points scored through week 16. This means that 2,200,000 Fantasybit coins are up for grabs, valued at around $200,000! *(will explain below, but first let’s get you some coins!)* 
 
-### [Projections Game](/pdf/flyer.pdf)
+### [Projections Game](/img/ProjectionsFlyer.png)
 1. [Download Protoblock (desktop preferred)](http://protoblock.com/downloads.html)
 2. [Claim Fantasy Name (chose twitter handle or fantasy team name to remain anonymous)](/img/claim3.png)
 >With Blockchain there is no login with a name/password, as there is no central company or server to log into. Instead, each user’s computer creates a Public / Private key pair. This public key is your identity and the private key is kept secret.  
@@ -170,7 +170,7 @@ These buyers will pay bitcoin or even dollars for Fantasybit. Now guess who gets
 
 ---
 
-## [Trading Game](/pdf/flyer.pdf)
+## [Trading Game](/img/TradingFlyer.png)
 The first utility for Fantasybit is currently live. 
 
 #### Decentralized Fantasy Forwards Market
