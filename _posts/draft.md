@@ -1,5 +1,4 @@
 ---
-layout: post
 title: First draft post!
 image: /img/hello_world.jpeg
 ---
