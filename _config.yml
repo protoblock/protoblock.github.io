@@ -23,6 +23,7 @@ description: Protoblock Blog Site
 
 # List of links in the navigation bar
 navbar-links:
+  Proof-of-Skill: "https://medium.com/@jaybny/on-proof-of-skill-6af149f45ce8"
   protoblock.com: "http://protoblock.com"
   download app: "http://protoblock.com/pages/downloads.html"
   leaderboard: "http://protoblock.com/pages/leaderboard.html"
